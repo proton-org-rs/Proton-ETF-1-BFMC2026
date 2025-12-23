@@ -1,0 +1,12 @@
+[submodule "src/Brain"]
+	path = src/Brain
+	url = https://github.com/proton-org-rs/BFMC-brain.git
+[submodule "src/Embedded_Platform"]
+	path = src/Embedded_Platform
+	url = https://github.com/proton-org-rs/BFMC-Embedded_Platform
+[submodule "src/Simulator"]
+	path = src/Simulator
+	url = https://github.com/proton-org-rs/BFMC-Simulator.git
+[submodule "src/Computer"]
+	path = src/Computer
+	url = https://github.com/proton-org-rs/BFMC-Computer.git
